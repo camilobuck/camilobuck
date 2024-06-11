@@ -23,7 +23,7 @@
 <a href="https://t.me/camilobuck"><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" ></a>
 </div><br/>
 
-#### Work:
+#### 🖥️
 <div style="display: inline_block">
 <img align="center" alt="ASUS" src="https://img.shields.io/badge/Windows-ASUS_H310M-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img align="center" alt="Intel" src="https://img.shields.io/badge/Intel-Core_i5_9400F-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
