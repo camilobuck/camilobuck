@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Camilo Buck 🗸
 
-[![Blog](https://img.shields.io/website?label=canecadumilo.com&style=for-the-badge&url=https://canecadumilo.com/)]("")
+[![Blog](https://img.shields.io/website?label=canecadumilo.com&style=for-the-badge&url=https://canecadumilo.vercel.app)]("")
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@iasdmilo?si=kbF1sPxifArNEwTV)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canecadumilo)
 
